@@ -1,0 +1,17 @@
+defenation of done: - 
+1) finalaize all the requirments
+2) pass all the test
+3) integrated succesfully
+
+
+
+defenation of ready: -
+Having a Definition of Ready means that stories must be immediately actionable. The Team must be able to determine
+what needs to be done and the amount of work required to complete the User Story or Product Backlog Item
+
+important for DOR:-
+
+The user, their needs, motivations and frustrations.
+The user’s context and what they are trying to achieve, and how the user will get value from this – and what is either side of this story.
+The context of the system(s) in this part of the journey and relevant to this item.
+The business logic needed to accomplish this.

@@ -1,0 +1,23 @@
+in the first sprint (which the team agreed to be 2 week) 
+
+the product owner welcome the team and decided that the goal of this sprint is to make a sign in / up page
+
+the team capacity allows to do 15 hr a week (30 per sprint)
+
+the team wants to break he problem to more small projects
+
+the sign in / up page won't be only for the customers but  also for the resturants
+
+the the cst should have the option to see the resturnts in the app without sign up
+
+
+the team agrees on the following goals:-
+	make two sign up pages one for the resturant and the other for the customer
+
+	the  sign up is optional in case the customer only wants to see the restrant products
+
+	data needed to sigin up a resturant will ask for details about the resturant food
+	locations and his contacts
+
+	data needed to sign up a customet is his personal name telphoe number email and his 
+	perfered payment methode
